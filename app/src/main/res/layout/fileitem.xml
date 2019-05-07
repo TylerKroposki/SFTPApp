@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/recycleFileName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FileName"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/recycleFileSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="FileSize" />
+
+    <TextView
+        android:id="@+id/recycleFileLastAccessed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="LastAccessed" />
+
+    <TextView
+        android:id="@+id/recycleFilePermissions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Permissions" />
+
+</LinearLayout>

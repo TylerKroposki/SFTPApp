@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1A1A1D</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="textColorHint">#C5C6C7</color>
+    <color name="edittextunderline">#4E4E50</color>
+
+    <color name ="submit_btn_bg">#2196F3</color>
+
+    <color name="bg_main">#1A1A1D</color>
+
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="green400">#9CCC65</color>
+    <color name="blue400">#29B6F6</color>
+    <color name="orange400">#FFA726</color>
+
+    <color name="gray50">#FAFAFA</color>
+    <color name="gray100">#F5F5F5</color>
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray300">#E0E0E0</color>
+    <color name="gray500">#9E9E9E</color>
+    <color name="gray700">#616161</color>
+</resources>

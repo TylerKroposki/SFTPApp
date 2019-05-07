@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SFTP</string>
+
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="usernameHint">Username</string>
+
+    <string name="err_msg_name">Please Enter a Username</string>
+    <string name="err_msg_required">Valid Input Required</string>
+    <string name="err_msg_email">Please Enter a Valid Email</string>
+    <string name="err_msg_password">Enter a Password</string>
+
+    <string name="loginLoginBtn">Login</string>
+    <string name="loginRegisterBtn">Don\'t have an account? Register</string>
+
+    <string name="registerLoginBtn">Already have an account? Login</string>
+    <string name="registerBtn">Register</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_user">UserActivity</string>
+
+</resources>
